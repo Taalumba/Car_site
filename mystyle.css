@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px
+}
+
+/*This is how comments are entered in CSS. It will be ignored by the browser but can help when editing or collaborating.*/
+
+<!--HTML type comments also work in CSS-->
